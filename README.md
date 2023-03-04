@@ -14,24 +14,25 @@ HTML5 incluye nuevas etiquetas que permiten la creación de contenido multimedia
 Otra de las características destacadas de HTML5 es su capacidad para crear listas ordenadas y no ordenadas de forma más fácil y con una mayor flexibilidad en su diseño y presentación.
 
 En resumen, HTML5 ofrece una serie de nuevas características y mejoras que hacen que la creación de páginas web sea más fácil y eficiente. Con su uso, se pueden crear páginas web más interactivas, atractivas y accesibles para el usuario.
-## A continuación, se muestran algunas de las etiquetas más comunes en HTML5 y su propósito:
+## Etiquetas HTML
 
-[<html>] Define el inicio y fin del documento HTML.
-[<head>] Define la sección de encabezado del documento HTML.
-[<title>] Define el título del documento HTML.
-[<body>] Define el cuerpo del documento HTML.
-[<h1></h1>, <h2>, <h3>, <h4>, <h5>, <h6>] Define encabezados de diferentes tamaños y niveles de importancia.
-[<p>] Define un párrafo.
-[<img>] Define una imagen.
-[<a>] Define un enlace.
-[<ul>, <ol>, <li>] Define listas sin ordenar, listas ordenadas y elementos de lista, respectivamente.
-[<form>, <input>, <label>, <button>] Define un formulario y sus elementos, como campos de entrada de texto, etiquetas y # # botones.
-[<div>, <span>] Define contenedores genéricos para organizar y dar formato al contenido.
-[<table>, <tr>, <th>, <td>] Define una tabla y sus elementos, como filas, encabezados de columna y celdas.
+Una etiqueta en HTML5 es una unidad básica de código que define la estructura y el contenido de una página web. Las etiquetas se utilizan para crear elementos como encabezados, párrafos, imágenes, formularios y enlaces, entre otros.
+
+A continuación, se muestran algunas de las etiquetas más comunes en HTML5 y su propósito:
+-	<html>: Define el inicio y fin del documento HTML.
+-	<head>: Define la sección de encabezado del documento HTML.
+-	<title>: Define el título del documento HTML.
+-	<body>: Define el cuerpo del documento HTML.
+-	<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Define encabezados de diferentes tamaños y niveles de importancia.
+-	<p>: Define un párrafo.
+-	<img>: Define una imagen.
+-	<a>: Define un enlace.
+-	<ul>, <ol>, <li>: Define listas sin ordenar, listas ordenadas y elementos de lista, respectivamente.
+-	<form>, <input>, <label>, <button>: Define un formulario y sus elementos, como campos de entrada de texto, etiquetas y botones.
+-	<div>, <span>: Define contenedores genéricos para organizar y dar formato al contenido.
+-	<table>, <tr>, <th>, <td>: Define una tabla y sus elementos, como filas, encabezados de columna y celdas.
 
 Es importante tener en cuenta que HTML5 es una especificación en constante evolución, por lo que pueden existir nuevas etiquetas en el futuro. Además, es posible que algunas etiquetas se vuelvan obsoletas o dejen de ser compatibles con los estándares actuales. Por lo tanto, es importante mantenerse actualizado en las últimas tendencias y estándares en el desarrollo web.
-
-
 
 ## Ejercicio No. 1
 
