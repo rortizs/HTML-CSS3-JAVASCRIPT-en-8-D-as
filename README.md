@@ -19,7 +19,10 @@ En resumen, HTML5 ofrece una serie de nuevas características y mejoras que hace
 Una etiqueta en HTML5 es una unidad básica de código que define la estructura y el contenido de una página web. Las etiquetas se utilizan para crear elementos como encabezados, párrafos, imágenes, formularios y enlaces, entre otros.
 
 A continuación, se muestran algunas de las etiquetas más comunes en HTML5 y su propósito:
--	<html>: Define el inicio y fin del documento HTML.
+
+
+```html
+ -	<html>: Define el inicio y fin del documento HTML.
 -	<head>: Define la sección de encabezado del documento HTML.
 -	<title>: Define el título del documento HTML.
 -	<body>: Define el cuerpo del documento HTML.
@@ -31,6 +34,9 @@ A continuación, se muestran algunas de las etiquetas más comunes en HTML5 y su
 -	<form>, <input>, <label>, <button>: Define un formulario y sus elementos, como campos de entrada de texto, etiquetas y botones.
 -	<div>, <span>: Define contenedores genéricos para organizar y dar formato al contenido.
 -	<table>, <tr>, <th>, <td>: Define una tabla y sus elementos, como filas, encabezados de columna y celdas.
+
+
+```
 
 Es importante tener en cuenta que HTML5 es una especificación en constante evolución, por lo que pueden existir nuevas etiquetas en el futuro. Además, es posible que algunas etiquetas se vuelvan obsoletas o dejen de ser compatibles con los estándares actuales. Por lo tanto, es importante mantenerse actualizado en las últimas tendencias y estándares en el desarrollo web.
 
